@@ -1,4 +1,4 @@
-export let monts = [
+export let months = [
 	'January',
 	'february',
 	'March',
@@ -13,7 +13,7 @@ export let monts = [
 	'December',
 ];
 
-export let weekday = [
+export let weekdays = [
 	'Sunday',
 	'Monday',
 	'Tuesday',
