@@ -86,9 +86,14 @@ body {
         width: 50%;
     }
 
-    .gift-img {
-        width: 50%;
+    .gift-img-container {
+       flex-basis: 600px;
     }
+
+    .gift-img {
+        object-fit: cover;
+    }
+    
 
     .deadline {
        justify-content: flex-start;
